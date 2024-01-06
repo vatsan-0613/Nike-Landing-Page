@@ -24,4 +24,16 @@ The site is deployed on [Vercel](https://vercel.com/). You can view it [here](ht
 
    ```bash
    git clone https://github.com/your-username/nike-landing-page.git
+   
+2. Install dependencies
+
+   ```bash
+   cd nike-landing-page
+   npm install
+
+3. Start the development server 
+
+   ```bash
+   npm run dev (vite-project)
+
 
